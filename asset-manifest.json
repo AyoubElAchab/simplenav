@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simplenav/static/css/main.d52f59bb.css",
+    "main.js": "/simplenav/static/js/main.bc744180.js",
+    "static/media/logo22.png": "/simplenav/static/media/logo22.91a47a1a12a75990b05a.png",
+    "index.html": "/simplenav/index.html",
+    "main.d52f59bb.css.map": "/simplenav/static/css/main.d52f59bb.css.map",
+    "main.bc744180.js.map": "/simplenav/static/js/main.bc744180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52f59bb.css",
+    "static/js/main.bc744180.js"
+  ]
+}
